@@ -15,7 +15,7 @@ A Java-based GUI application for managing student grades, calculating statistics
 ## 🛠️ Technologies Used
 
 - Java
-- JavaFX *(or Swing — depending on your project)*
+- JavaFX 
 - Object-Oriented Programming (OOP)
 
 ## 📷 Demo
