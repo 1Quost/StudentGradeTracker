@@ -18,9 +18,7 @@ A Java-based GUI application for managing student grades, calculating statistics
 - JavaFX 
 - Object-Oriented Programming (OOP)
 
-## 📷 Demo
-
-[https://www.linkedin.com/in/yourusername/ *(Replace with actual link to LinkedIn or video demo)*](https://www.linkedin.com/posts/patricia-clarji-7056a8347_codealpha-java-programming-activity-7343583503537594368-W1nm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbHG_UB9HpFnHJqkmkQllIoV-sCRby7ufY)
+## 📷 Images
 
 ![image](https://github.com/user-attachments/assets/ad87a907-1018-4103-914a-f0c039f7c84c)
 
